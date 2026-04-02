@@ -49,7 +49,7 @@ Passionate about **turning data into actionable insights** and building dashboar
 
 ## 📫 Contact & Profiles
 
-- 📧 Contact me: [cgbhumika@gmail.com](mailto:your.email@example.com)  
+- 📧 Gmail: [cgbhumika@gmail.com](mailto:your.email@example.com)  
 - 🔗 Check out my [LinkedIn](https://www.linkedin.com/in/bhumika-c-g)  
 - 💻 Check out my [GitHub profile](https://github.com/bhumikaCG) for projects and resume.
 
