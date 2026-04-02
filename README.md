@@ -32,7 +32,7 @@ Passionate about **turning data into actionable insights** and building dashboar
 **Tools:** MySQL, Power BI  
 - Created dashboards and reports for decision-making  
 
-### 4. Business 360 – Brick & Mortar & E-commerce Analytics  [GitHub Link](https://github.com/bhumikacg/Business-Insights-360)
+### 4. Business Insights 360 – Brick & Mortar & E-commerce Analytics  [GitHub Link](https://github.com/bhumikacg/Business-Insights-360)
 **Tools:** Power BI, SQL, Excel, DAX  
 - Developed comprehensive dashboards to monitor sales performance and trends  
 
@@ -43,8 +43,8 @@ Passionate about **turning data into actionable insights** and building dashboar
 
 
 ## 📂 Resume
-- [Resume PDF](./YourResumeFileName.pdf)   
-
+- [Resume PDF](./https://github.com/bhumikacg/BhumikaCG-_Resume/blob/main/Bhumika%20CG_Resume.pdf)
+  
 ---
 
 ## 📫 Contact & Profiles
